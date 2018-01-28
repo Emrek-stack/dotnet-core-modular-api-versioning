@@ -1,9 +1,0 @@
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/bin/Debug/netstandard2.0/Frost.WebApiVersioning.V2.deps.json
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/bin/Debug/netstandard2.0/Frost.WebApiVersioning.V2.dll
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/bin/Debug/netstandard2.0/Frost.WebApiVersioning.V2.pdb
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/obj/Debug/netstandard2.0/Frost.WebApiVersioning.V2.csprojResolveAssemblyReference.cache
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/obj/Debug/netstandard2.0/Frost.WebApiVersioning.V2.csproj.CoreCompileInputs.cache
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/obj/Debug/netstandard2.0/Frost.WebApiVersioning.V2.AssemblyInfoInputs.cache
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/obj/Debug/netstandard2.0/Frost.WebApiVersioning.V2.AssemblyInfo.cs
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/obj/Debug/netstandard2.0/Frost.WebApiVersioning.V2.dll
-/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning.V2/obj/Debug/netstandard2.0/Frost.WebApiVersioning.V2.pdb
