@@ -1,0 +1,15 @@
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.deps.json
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.runtimeconfig.json
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.runtimeconfig.dev.json
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.dll
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.pdb
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.V1.dll
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.V1.pdb
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/obj/Debug/netcoreapp2.0/Frost.WebApiVersioning.csprojResolveAssemblyReference.cache
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/obj/Debug/netcoreapp2.0/Frost.WebApiVersioning.csproj.CoreCompileInputs.cache
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/obj/Debug/netcoreapp2.0/Frost.WebApiVersioning.AssemblyInfoInputs.cache
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/obj/Debug/netcoreapp2.0/Frost.WebApiVersioning.AssemblyInfo.cs
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/obj/Debug/netcoreapp2.0/Frost.WebApiVersioning.dll
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/obj/Debug/netcoreapp2.0/Frost.WebApiVersioning.pdb
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.V2.dll
+/mnt/repo/myRepo/dotnetcore-api-versioning/Frost.ApiVersioningSolution/Frost.WebApiVersioning/bin/Debug/netcoreapp2.0/Frost.WebApiVersioning.V2.pdb

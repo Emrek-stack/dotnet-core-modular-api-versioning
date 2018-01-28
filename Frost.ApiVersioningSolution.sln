@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frost.WebApiVersioning", "Frost.WebApiVersioning\Frost.WebApiVersioning.csproj", "{68539B4D-B3C9-4F43-B4A0-B74DD370A218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frost.WebApiVersioning.V1", "Frost.WebApiVersioning.V1\Frost.WebApiVersioning.V1.csproj", "{2DE47189-5B54-4593-9F73-67CE138174B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frost.WebApiVersioning.V2", "Frost.WebApiVersioning.V2\Frost.WebApiVersioning.V2.csproj", "{DABCB68B-84EC-4BE3-B666-9CB07EF469BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68539B4D-B3C9-4F43-B4A0-B74DD370A218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68539B4D-B3C9-4F43-B4A0-B74DD370A218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68539B4D-B3C9-4F43-B4A0-B74DD370A218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68539B4D-B3C9-4F43-B4A0-B74DD370A218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE47189-5B54-4593-9F73-67CE138174B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE47189-5B54-4593-9F73-67CE138174B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE47189-5B54-4593-9F73-67CE138174B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE47189-5B54-4593-9F73-67CE138174B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABCB68B-84EC-4BE3-B666-9CB07EF469BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABCB68B-84EC-4BE3-B666-9CB07EF469BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABCB68B-84EC-4BE3-B666-9CB07EF469BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABCB68B-84EC-4BE3-B666-9CB07EF469BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

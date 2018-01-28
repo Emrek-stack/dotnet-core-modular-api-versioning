@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Frost.ApiVersioningSolution.351904026.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Frost.ApiVersioningSolution.sln" t="IncludeFlat" />
+      <e p="Frost.WebApiVersioning" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Frost.WebApiVersioning.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Frost.WebApiVersioning.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="Frost.WebApiVersioning.V1" t="IncludeRecursive">
+        <e p="ControllerModule.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="HiController.cs" t="Include" />
+        </e>
+        <e p="Frost.WebApiVersioning.V1.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Frost.WebApiVersioning.V1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Frost.WebApiVersioning.V2" t="IncludeRecursive">
+        <e p="ControllerModule.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="HiController.cs" t="Include" />
+        </e>
+        <e p="Frost.WebApiVersioning.V2.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Frost.WebApiVersioning.V2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
